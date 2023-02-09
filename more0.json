@@ -1,0 +1,10 @@
+{
+    "name": "David",
+    "userImage": "https://cdn.pixabay.com/photo/2023/02/01/16/04/fog-7760708_640.jpg",
+    "postImage": "https://cdn.pixabay.com/photo/2023/02/01/16/04/fog-7760708_640.jpg",
+    "likes": 5,
+    "date": "July 25",
+    "liked": false,
+    "content": "...",
+    "filter": "perpetua"
+}
